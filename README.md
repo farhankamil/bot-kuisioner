@@ -1,6 +1,6 @@
-# 🤖 Bot Kuisioner
+# 🤖 Bot Kuesioner
 
-Koleksi script otomatis untuk mengisi kuisioner web dengan berbagai jenis form dan interface. Bot ini dirancang untuk menghemat waktu dalam mengisi kuisioner yang repetitif dengan pilihan jawaban yang sudah ditentukan.
+Koleksi script otomatis untuk mengisi Kuesioner web dengan berbagai jenis form dan interface. Bot ini dirancang untuk menghemat waktu dalam mengisi Kuesioner yang repetitif dengan pilihan jawaban yang sudah ditentukan.
 
 <a id="daftar-isi"></a>
 ## 📋 Daftar Isi
