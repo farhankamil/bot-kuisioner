@@ -15,7 +15,6 @@ Koleksi script otomatis untuk mengisi kuisioner web dengan berbagai jenis form d
 - [Troubleshooting](#-troubleshooting)
 - [Kontribusi](#-kontribusi)
 - [Disclaimer](#️-disclaimer)
-- [Lisensi](#-lisensi)
 - [Acknowledgments](#-acknowledgments)
 
 <a id="fitur"></a>
@@ -182,11 +181,6 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 - **Pastikan tidak melanggar** terms of service website
 - **Bot ini untuk tujuan edukasi** dan efisiensi personal
 - **Penulis tidak bertanggung jawab** atas penyalahgunaan script
-
-<a id="lisensi"></a>
-## 📄 Lisensi
-
-Project ini dilisensikan under MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 <a id="acknowledgments"></a>
 ## 🙏 Acknowledgments
