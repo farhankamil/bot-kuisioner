@@ -14,6 +14,7 @@ Koleksi script otomatis untuk mengisi kuisioner web dengan berbagai jenis form d
 - [Troubleshooting](#troubleshooting)
 - [Kontribusi](#kontribusi)
 - [Acknowledgments](#acknowledgments)
+- [Disclaimer](#disclaimer)
 
 ## Fitur
 
@@ -165,6 +166,13 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 - Terima kasih kepada komunitas JavaScript  
 - Inspirasi dari kebutuhan otomasi kuisioner  
 - Kontributor yang telah membantu pengembangan  
+
+## Disclaimer
+
+- Gunakan dengan bertanggung jawab dan sesuai aturan institusi  
+- Pastikan tidak melanggar terms of service website  
+- Bot ini untuk tujuan edukasi dan efisiensi personal  
+- Penulis tidak bertanggung jawab atas penyalahgunaan script
 
 ---
 
